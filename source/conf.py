@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Kopie zapasowe i odzyskiwanie danych'
-copyright = '2026, Gal 1'
-author = 'Gal 1'
+project = 'Sprawozdanie z labolatorium'
+copyright = '2026, Jan Balazs de Borbatviz'
+author = 'Jan Balazs de Borbatviz'
 release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
