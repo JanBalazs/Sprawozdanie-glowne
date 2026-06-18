@@ -1,6 +1,6 @@
-===============================================
-Dokumentacja bazy danych -- Sklep elektroniczny
-===============================================
+==============================================
+Planowanie baz danych i tworzenie dokumentacji
+==============================================
 
 **Autorzy:** Norbert Antonovitch, Michał Bednarczyk, Jan Balazs de Borbatviz
 
