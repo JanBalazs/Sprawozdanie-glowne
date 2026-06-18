@@ -110,3 +110,4 @@
 \contentsline {section}{\numberline {4.1}4.1. Definicja bazy danych w wariantach PostgreSQL i SQLite}{37}{section.4.1}%
 \contentsline {section}{\numberline {4.2}4.2. Wybór mechanizmów wsadowego wprowadzania danych}{39}{section.4.2}%
 \contentsline {section}{\numberline {4.3}4.3. Komentarz do procesu wprowadzania danych}{39}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Zapytania do bazy danych}{41}{chapter.5}%
