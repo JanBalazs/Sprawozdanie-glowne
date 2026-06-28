@@ -2,7 +2,7 @@
 Wstęp
 =====
 
-:Autor:
+:Autor
     Jan Balazs de Borbatviz
 
 Wstęp do sprawozdania
@@ -11,15 +11,13 @@ Wstęp do sprawozdania
 Wnioski z przeprowadzonych ćwiczeń
 ==================================
 
-
-
 1. Główne repozytorium sprawozdania 
 ---------------------------------------------------------
 Link do mojego repozytorium ze sprawozdaniem:
 
-* **Link:** https://github.com/Koko9077/Sprawozdanie
+* **Link:** https://github.com/JanBalazs/Sprawozdanie-glowne
 
-2. Repozytorium z modelami fizycznymi naszej bazy 
+2. Repozytorium z modelami fizycznymi bazy danych
 ---------------------------------------------------------
 
 * **Link:** https://github.com/Koko9077/Model-fizyczny-baz
