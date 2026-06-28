@@ -10,8 +10,8 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 project = 'Sprawozdanie-z-laboratoriów'
-copyright = '2026, Michał Bednarczyk'
-author = 'Michał Bednarczyk'
+copyright = '2026, Jan Balazs de Borbatviz'
+author = 'Jan Balazs de Borbatviz'
 
 # -- General configuration ---------------------------------------------------
 # Dodanie rozszerzenia autodoc
@@ -58,7 +58,7 @@ latex_documents = [
         'index', 
         'sprawozdanie-z-laboratoriow.tex', 
         'Sprawozdanie z Laboratorium: Bazy Danych',
-        'Michał Bednarczyk',  # Combined authors into one string
+        'Jan Balazs de Borbatviz',  # Combined authors into one string
         'manual'              # This is now correctly the documentclass
     ),
 ]
