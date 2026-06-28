@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.29)  29 JUN 2026 01:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.29)  29 JUN 2026 01:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -882,103 +882,101 @@ st/fonts/enc/dvips/tex-gyre/q-ec.enc}] (./sprawozdanie-z-laboratoriow.toc [1
 \openout6 = `sprawozdanie-z-laboratoriow.toc'.
 
  [2]
-LaTeX Font Info:    Trying to load font information for T1+txtt on input line 1
-05.
-
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
-File: t1txtt.fd 2000/12/15 v3.1
-) [1
-
-]
 Chapter 1.
 LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
-36.
+27.
 (/usr/share/texlive/texmf-dist/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
-) [2
+) [1
+
 
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 Chapter 2.
-[3
+[2
 
-] [4] [5] [6] [7]
+] [3] [4] [5]
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 5
+05.
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+)
+[6]
 LaTeX Font Info:    Font shape `T1/txtt/m/it' in size <10.95> not available
-(Font)              Font shape `T1/txtt/m/sl' tried instead on input line 624.
+(Font)              Font shape `T1/txtt/m/sl' tried instead on input line 615.
 LaTeX Font Info:    Font shape `T1/txtt/b/n' in size <10.95> not available
-(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 649.
- [8]
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 640.
+ [7]
 LaTeX Font Info:    Trying to load font information for TS1+txtt on input line 
 1.
-
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txtt.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txtt.fd
 File: ts1txtt.fd 2000/12/15 v3.1
-) [9] [10] [11]
-[12] [13]
+) [8]
+[9] [10] [11] [12]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 1396.
+nput line 1387.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-[14{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
-[15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1616
+[13{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
+[14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 1604--1607
 [][][][][]\T1/qtm/m/n/9 Oracle Doc-u-men-ta-tion, \T1/qtm/m/it/9 AU-DIT_TRAIL \
 T1/qtm/m/n/9 oraz in-for-ma-cje o uni-fied au-dit-ing, [][]$https : / / docs . 
 oracle . com / en / database / oracle /
  []
 
-[17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
-[32] [33] [34]
+[16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+[31] [32] [33]
 Chapter 3.
 
-Overfull \vbox (1.72768pt too high) detected at line 2719
+Overfull \vbox (1.72768pt too high) detected at line 2710
  []
 
-[35
+[34
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2851--2853
+Underfull \hbox (badness 10000) in paragraph at lines 2842--2844
 []\T1/qtm/b/n/10.95 Szczegóªy za-mówienia: \T1/qtm/m/n/10.95 klucz obcy (\T1/tx
 tt/m/n/10.95 id_zamowienia\T1/qtm/m/n/10.95 ), klucz obcy (\T1/txtt/m/n/10.95 i
 d_produktu\T1/qtm/m/n/10.95 ), ilo±¢,
  []
 
-[36]
-<schemat_chen.png, id=970, 1959.57094pt x 1318.17468pt>
+[35]
+<schemat_chen.png, id=962, 1959.57094pt x 1318.17468pt>
 File: schemat_chen.png Graphic file (type png)
 <use schemat_chen.png>
-Package pdftex.def Info: schemat_chen.png  used on input line 2886.
+Package pdftex.def Info: schemat_chen.png  used on input line 2877.
 (pdftex.def)             Requested size: 353.2655pt x 237.62325pt.
-<schemat_ie.png, id=971, 1207.51125pt x 671.50874pt>
+<schemat_ie.png, id=963, 1207.51125pt x 671.50874pt>
 File: schemat_ie.png Graphic file (type png)
 <use schemat_ie.png>
-Package pdftex.def Info: schemat_ie.png  used on input line 2914.
+Package pdftex.def Info: schemat_ie.png  used on input line 2905.
 (pdftex.def)             Requested size: 353.2655pt x 196.45393pt.
- [37 <./schemat_chen.png (PNG copy)> <./schemat_ie.png>]
+ [36 <./schemat_chen.png (PNG copy)> <./schemat_ie.png>]
 Chapter 4.
-[38
+[37
 
 ]
-Underfull \vbox (badness 10000) detected at line 3032
+Underfull \vbox (badness 10000) detected at line 3023
  []
 
-[39] [40]
+[38] [39]
 Chapter 5.
-[41
+[40
 
-] [42] [43] [44] (./sprawozdanie-z-laboratoriow.aux)
+] [41] [42] [43] (./sprawozdanie-z-laboratoriow.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `sprawozdanie-z-laboratoriow.out' has not cha
 nged.
-(rerunfilecheck)             Checksum: 9CBB6DBEB0DC63A5C7FBBF9265BA4604;35312.
+(rerunfilecheck)             Checksum: 1D213E9F9048738DFDA42C18A55A5BC7;35311.
  ) 
 Here is how much of TeX's memory you used:
- 20942 strings out of 467363
- 379899 string characters out of 5419001
- 831825 words of memory out of 6000000
- 49318 multiletter control sequences out of 15000+600000
+ 20938 strings out of 467363
+ 379855 string characters out of 5419001
+ 831797 words of memory out of 6000000
+ 49317 multiletter control sequences out of 15000+600000
  696523 words of font info for 108 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  72i,12n,82p,1216b,816s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -993,10 +991,10 @@ blic/tex-gyre/qtmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfon
 ts/t1xbtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/txfonts/tcxtt.pfb>
-Output written on sprawozdanie-z-laboratoriow.pdf (47 pages, 625145 bytes).
+Output written on sprawozdanie-z-laboratoriow.pdf (46 pages, 624289 bytes).
 PDF statistics:
- 1140 PDF objects out of 1200 (max. 8388607)
- 1057 compressed objects within 11 object streams
- 282 named destinations out of 1000 (max. 500000)
+ 1132 PDF objects out of 1200 (max. 8388607)
+ 1050 compressed objects within 11 object streams
+ 279 named destinations out of 1000 (max. 500000)
  1215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
