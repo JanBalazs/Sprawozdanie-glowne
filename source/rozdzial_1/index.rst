@@ -2,8 +2,8 @@
 Wstęp
 =====
 
-:Autorzy:
-    1. Michał Bednarczyk
+:Autor:
+    Jan Balazs de Borbatviz
 
 Wstęp do sprawozdania
 =====================
