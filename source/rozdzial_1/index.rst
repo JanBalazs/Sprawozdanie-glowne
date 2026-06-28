@@ -2,7 +2,7 @@
 Wstęp
 =====
 
-:Autor
+:Autor:
     Jan Balazs de Borbatviz
 
 Wstęp do sprawozdania
