@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.29)  29 JUN 2026 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.29)  29 JUN 2026 21:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,7 +884,7 @@ st/fonts/enc/dvips/tex-gyre/q-ec.enc}] (./sprawozdanie-z-laboratoriow.toc [1
  [2]
 Chapter 1.
 LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
-36.
+27.
 (/usr/share/texlive/texmf-dist/tex/latex/tex-gyre/ts1qtm.fd
 File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 ) [1
@@ -896,15 +896,15 @@ Chapter 2.
 
 ] [4] [5] [6]
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 5
-14.
+25.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
 [7]
 LaTeX Font Info:    Font shape `T1/txtt/m/it' in size <10.95> not available
-(Font)              Font shape `T1/txtt/m/sl' tried instead on input line 624.
+(Font)              Font shape `T1/txtt/m/sl' tried instead on input line 635.
 LaTeX Font Info:    Font shape `T1/txtt/b/n' in size <10.95> not available
-(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 649.
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 660.
  [8]
 LaTeX Font Info:    Trying to load font information for TS1+txtt on input line 
 1.
@@ -913,12 +913,12 @@ File: ts1txtt.fd 2000/12/15 v3.1
 ) [9]
 [10] [11] [12] [13]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 1396.
+nput line 1407.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 [14{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
 [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1616
+Underfull \hbox (badness 10000) in paragraph at lines 1624--1627
 [][][][][]\T1/qtm/m/n/9 Oracle Doc-u-men-ta-tion, \T1/qtm/m/it/9 AU-DIT_TRAIL \
 T1/qtm/m/n/9 oraz in-for-ma-cje o uni-fied au-dit-ing, [][]$https : / / docs . 
 oracle . com / en / database / oracle /
@@ -928,13 +928,13 @@ oracle . com / en / database / oracle /
 [32] [33] [34]
 Chapter 3.
 
-Overfull \vbox (1.72768pt too high) detected at line 2719
+Overfull \vbox (1.72768pt too high) detected at line 2730
  []
 
 [35
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2851--2853
+Underfull \hbox (badness 10000) in paragraph at lines 2862--2864
 []\T1/qtm/b/n/10.95 Szczegóªy za-mówienia: \T1/qtm/m/n/10.95 klucz obcy (\T1/tx
 tt/m/n/10.95 id_zamowienia\T1/qtm/m/n/10.95 ), klucz obcy (\T1/txtt/m/n/10.95 i
 d_produktu\T1/qtm/m/n/10.95 ), ilo±¢,
@@ -944,19 +944,19 @@ d_produktu\T1/qtm/m/n/10.95 ), ilo±¢,
 <schemat_chen.png, id=966, 1959.57094pt x 1318.17468pt>
 File: schemat_chen.png Graphic file (type png)
 <use schemat_chen.png>
-Package pdftex.def Info: schemat_chen.png  used on input line 2886.
+Package pdftex.def Info: schemat_chen.png  used on input line 2897.
 (pdftex.def)             Requested size: 353.2655pt x 237.62325pt.
 <schemat_ie.png, id=967, 1207.51125pt x 671.50874pt>
 File: schemat_ie.png Graphic file (type png)
 <use schemat_ie.png>
-Package pdftex.def Info: schemat_ie.png  used on input line 2914.
+Package pdftex.def Info: schemat_ie.png  used on input line 2925.
 (pdftex.def)             Requested size: 353.2655pt x 196.45393pt.
  [37 <./schemat_chen.png (PNG copy)> <./schemat_ie.png>]
 Chapter 4.
 [38
 
 ]
-Underfull \vbox (badness 10000) detected at line 3032
+Underfull \vbox (badness 10000) detected at line 3043
  []
 
 [39] [40]
@@ -991,7 +991,7 @@ blic/tex-gyre/qtmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfon
 ts/t1xbtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/txfonts/tcxtt.pfb>
-Output written on sprawozdanie-z-laboratoriow.pdf (47 pages, 626489 bytes).
+Output written on sprawozdanie-z-laboratoriow.pdf (47 pages, 626545 bytes).
 PDF statistics:
  1136 PDF objects out of 1200 (max. 8388607)
  1053 compressed objects within 11 object streams
