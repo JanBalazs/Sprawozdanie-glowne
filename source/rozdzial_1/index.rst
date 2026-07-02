@@ -5,6 +5,8 @@ Wstęp
 :Autor:
     Jan Balazs de Borbatviz
 
+https://github.com/JanBalazs/Sprawozdanie-glowne
+
 Wstęp do sprawozdania
 =====================
 
